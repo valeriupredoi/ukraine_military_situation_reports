@@ -26,6 +26,7 @@ Frontlines situation 6 March 2022
   have been pushed back by the Ukrainins, reporting captures of Russ armour; unclear if they will start operations towards Odessa, and if they will use amphibious units from the Black Sea (although they are assembling a flotilla of landing craft there)
 
 ![operations map 6 March 2022](https://github.com/valeriupredoi/ukraine_military_situation_reports/blob/main/maps/tactical_6Mar2022.png)
+
 Operations map 6 March 2022, source Insitute for the Study of War [Campaign Assessment 5 March](https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-5)
 
 **Notes on logistics:**
