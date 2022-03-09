@@ -1,4 +1,4 @@
-Frontlines situation 7 March 2022
+Frontlines situation 8 March 2022
 =================================
 
 **Russ Operational axes:**
