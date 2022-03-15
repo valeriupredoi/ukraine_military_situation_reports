@@ -1,0 +1,11 @@
+Note on Russ aviation
+=====================
+
+Here's how aviation operations work:
+
+- Kremlin + Russ high command designates targets - and they do select a LOT of civilian targets (hospitals, factories, residential complexes etc) because this is part of the Russ strategy - to demoralize the civilian population by attacking unlawful targets (outdated strategy since it's been proven starting with the heavy bombing of Britain, Germany and Japan during WW2 that civilians the more they suffer the more they turn against the attackers);
+- The designated targets get communicated to a number of Early Warning and Control aircraft flying outside Ukrainian air space (equivalents to NATO's AWACS aircraft) - these are actual airborne air traffic controllers; the guys in these planes are not told if the target is civillian or not - they are only given GPS coordinates and type of target: building, convoy, artillery position etc; **they are aware that some/a lot of these targets are civillian**;
+- The operators in these aircraft chose the correct type of aircraft to conduct the mission at hand: either attack aircraft/gunship helicopters flying at lower altitudes for mostly smaller military targets (convoys, artillery emplacements etc), or larger, higher altitude bombers for larger targets; they also coordinate the aircraft tasked with finding Ukrainian SAM emplacements and jamming their radars/destroying the SAMs;
+- The designated aircraft receive only a set of GPS coordinates (and elevation, azimuth, weather conditions at target) and type of target (building, convoy etc) so they can select the specific type of ammunition for their mission; they are not told the target is or isn't civilian; again, these pilots **know that some of their targets are civilian targets**, but don't know right away during their mission;
+
+There is no doubt that each VKS (Russ Air Force) pilot knows sooner or later they will bomb civilian targets, and that happens very often, but they are not told specifically when they take off for their mission. It is a rather nasty feeling I would personally have constantly knowing that I, as a VKS pilot, am supposed to kill civilians on a regular basis, but am doing it from the distance, and not knowing specifically when I'm doing it, as opposed to bombing a legitimate military target.
