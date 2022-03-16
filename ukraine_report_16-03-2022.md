@@ -17,6 +17,8 @@ Frontlines situation 16 March 2022
 
 Quiet most all fronts. When the Russ is quiet, shit's afoot.
 
+Tactical situation on March 16th 2022: tagline would be "When the Russ is quiet, shit's afoot." - very minor operations (see below for a few more details on each axis/front line), but it seems the Russ is regrouping/resupplying/calling up reserves and all manners of dubious paramilitary groups. More worryingly, apparently there are promising signs from the peace negotiations - and knowing Kremlin, that is not a good sign - probably buying time do something. Not sure what; although the Ukrainians still have plenty of troops reserves to fully deploy (they are mobilized but not deployed yet). Another worrying fact are statements by Putin and a couple more very senior Kremlin penpushniks saying stuff a la "a dismembered Russia has no place in this world" and "these upcoming days are the most important days in the history of Russia". NATO is all but confident the Russ Army has been rendered useless, so I'm a bit uneasy that these next 8-12 days are indeed actually going to be the "peak of the pandemic".
+
 ![operations map 16 March 2022](https://github.com/valeriupredoi/ukraine_military_situation_reports/blob/main/maps/tactical_16Mar2022.png)
 
 Operations map 15-16 March 2022, source Insitute for the Study of War [Campaign Assessment 11 March](https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-15)
