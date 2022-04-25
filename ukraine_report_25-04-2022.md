@@ -1,0 +1,10 @@
+Tactical update 25 April 2022
+=============================
+
+Situation in the N and NW of the Donass front, SE of Kharkiv: Tom Cooper summarizes it excellently via Kornei, see https://medium.com/@x_TomCooper_x/ukraine-war-23-24-april-2022-9732d1d1a42 -
+
+Starting from Izyum -> "the Russians are north of Dovhenke, south of Lozove, holding Kremina, and a better part of Rubizhne — all of which are north of Slovyansk and north-west of Severodonetsk. Then they’re in Oleksandrivka (seems, there’s at least one place with this name in every of Ukrainian oblasts), Borivske, Popasna, Horlivka, Marinka, and Avidiivka, and from all these places they’re trying to — preferably: simultaneously — breach the Ukrainian frontlines and to converge on Slovyansk and Kramatorsk. That’s something like ‘essence’ of what Dvornikov seems to be trying to achieve.
+
+Now mind: after 60 days of continuous assaults, about 50,000–70,000 troops of RFA, Separatists, and Russian- and foreign mercenaries of the Wagner PMC, have managed to reach the north-western, northern, and eastern outskirts of Severodonetsk, and have captured Kremina and half of Popasna. Surely enough, this means they’re still well away from overcoming all the possible fortifications and Ukrainian frontlines in between there and the heavily-fortified Slovyansk and Kramatorsk (with the heavily fortified Mount Karachun in between)….but still: they are now in the outskirts of Lyman and Zarichne."
+
+This is an operational radius of 100km, with a total area of about 4000 square km, given that the Russians have troubles advancing 10km in a few days, only to be pushed back the next days, this objective is not attainable by them. At the moment, the Russ is holding up the Ukrainians via heavy artillery barrages, but their advances are "probing ayyacks" as the Ukrainians mentioned - in effect, these are not probing, but rather, as heavy as the Russ can exert at the moment - in the hope that in some parts the Ukrainian line might be breached; these are not concentrated heavy attacks, and the Ukrainians can repel most of them. These attacks are usually exhausting the attacker much more than the defenders, as well.
