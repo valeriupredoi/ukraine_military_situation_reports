@@ -1,0 +1,4 @@
+- the decisive battle is now along the Siversk River (the East-West bend between Lyman and Rubizhne, passing North Bilohorivka, marked in light thick blue on the first map); the Russ have started laying pontoon bridges over the river - at least two real ones, and two fake (decoy);
+- the Russ objective is to cross the river, take Yampil, Bilohorivka, and further on Siversk, while joining in with the spearheard from Popasna in the South, thus fully cutting off Lysychansk and Severodonetsk, including a decent amount of Ukrainian troops;
+- this seems to be a major priority for the Russ General Staff, since they have committed their few fresh troops, and a large number of Spetsnatz (special forces);
+- the Russ advance was very slow, but only now their offesnive centre of mass is starting to shape up; they will continue to put pressure if they manage to cross the river in multiple places, and this is not looking good
