@@ -1,0 +1,1 @@
+Possible first visible signs of the Ukrainian counter-attack towards Izyum and Kamianka - that is straight in the left flank of 20th Combined Arms Army, and very close to their headquarters (HQ); situation on Siverski Donets River seems to be under control, after reports of one Russ bridgehead yesterday afternoon.
